@@ -31,7 +31,7 @@
     </pre>
     <li><strong>Run the Script:</strong></li>
     <pre>
-      <code>python CryptoWhitelistBuilder.py</code>
+      <code>python3 CryptoWhitelistBuilder.py</code>
     </pre>
     <li><strong>Check Output:</strong></li>
     <p>The script will attempt to fetch symbols from Binance and CoinMarketCap, find common symbols, and generate a new whitelist file named whitelist-binance.json in the script's directory.</p>
