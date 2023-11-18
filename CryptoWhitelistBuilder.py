@@ -93,7 +93,7 @@ def create_new_whitelist_file(common_symbols):
     print("Whitelist file 'whitelist-binance.json' updated successfully.")
 
 if __name__ == "__main__":
-    # Call the function before running your script
+    # Calls the check and install function for dependencies before running the other functions.
     check_and_install_dependencies()
 
     # Fetch symbols quoted in USDT from Binance
