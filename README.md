@@ -14,7 +14,7 @@
 
   <h2>Installation</h2>
   <h3>Prerequisites</h3>
-  <p>Ensure you have Python 3 installed on your system. This script also requires 'requests' However the script will check if its installed automatically and should install it for you if its missing. All other Prerequisites are part of Python 3 so thats all you should need to use this script.</p>
+  <p>Ensure you have Python 3 installed on your system. This script also requires 'requests' However the script will check if its installed automatically and should install it for you if its missing. All other libraries are part of Python 3 so thats all you should need to use this script.</p>
 
   <h3>Steps</h3>
   <ol>
