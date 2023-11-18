@@ -25,7 +25,7 @@
     <li><strong>Update API Keys:</strong></li>
     <p>Open the script file (CryptoWhitelistBuilder.py) in a text editor. Replace api_key with your CoinMarketCap API key.</p>
     <p>A CoinMarketCap API key is mandatory to use this script. Thankfully its completely free and you just need to create a CoinMarketCap developer account to get one.</p>
-    <p>Follow the link below for a quickstart guide on how to do that below</p>
+    <p>Follow the link below for a quickstart guide on how to do that</p>
     <pre>
       <code>https://coinmarketcap.com/api/documentation/v1/</code>
     </pre>
