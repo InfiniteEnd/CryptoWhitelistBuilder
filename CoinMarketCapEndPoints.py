@@ -1,7 +1,7 @@
 import requests
 
 # CoinMarketCap API Configuration
-api_key = "7c80fd1d-dff9-46ec-91e6-651a68582b95"
+api_key = "YOUR_COINMARKETCAP_API_KEY"
 headers = {"X-CMC_PRO_API_KEY": api_key}
 
 def get_categories():
